@@ -2,20 +2,13 @@
 
 <aside>
 👋 I am a software engineer based in Rio Grande do Sul, Brazil, with experience in the software industry since 2007. My focus area for the past few years has been back-end development using **Node.js**, but I am also skilled in front-end development with **Vue**.
-
 </aside>
-
-🇧🇷 [Clique aqui](https://www.notion.so/Israel-Borba-PT-BR-2659d890a9314f4b986a76d424524bfa?pvs=21) se preferir a versão PT-BR
 
 ### Contacts
 
-[📧](mailto:adalovelace@mail.com) [Email](mailto:israel.borba@gmail.com)
-
+[📧](mailto:israel.borba@mail.com) [Email](mailto:israel.borba@gmail.com)
 [🔗](https://www.linkedin.com/in/israelmborba/) [Linkedin](https://www.linkedin.com/in/israelmborba)
-
 [👾Github](https://github.com/iborba)
-
-[✉️ Cover Letter](https://www.notion.so/Cover-letter-3395501dbc454c7baaf4baf661e52451?pvs=21)
 
 # Experience
 
