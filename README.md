@@ -6,7 +6,9 @@
 [🔗](https://www.linkedin.com/in/israelmborba/) [Linkedin](https://www.linkedin.com/in/israelmborba)
 [👾Github](https://github.com/iborba)
 
-[Experience](./experience.html).
+# Experience 
+
+[See here](./experience.md)
 
 ---
 
