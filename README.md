@@ -1,8 +1,6 @@
 # Israel Borba
 
-<aside>
 👋 I am a software engineer based in Rio Grande do Sul, Brazil, with experience in the software industry since 2007. My focus area for the past few years has been back-end development using **Node.js**, but I am also skilled in front-end development with **Vue**.
-</aside>
 
 [📧](mailto:israel.borba@mail.com) [Email](mailto:israel.borba@gmail.com)
 [🔗](https://www.linkedin.com/in/israelmborba/) [Linkedin](https://www.linkedin.com/in/israelmborba)
@@ -46,13 +44,10 @@ Whether it's T-SQL, PL-SQL, PG-SQL, or any other variation, where there's a data
 
 # Languages
 
-### Portuguese 🇧🇷
-
-Native speaker
-
-### English 🇺🇸
-
-Proficient speaker
+| Language      | Level  | Certificate                              | 
+|:--------------|:-------|:-----------------------------------------|
+| Portuguese 🇧🇷 | Native | -                                        |
+| English 🇺🇸    | C1     | https://cert.efset.org/zaPhYD?cid=em100a |
 
 ---
 
