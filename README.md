@@ -46,10 +46,10 @@ Whether it's T-SQL, PL-SQL, PG-SQL, or any other variation, where there's a data
 
 # Languages
 
-| Language      | Level  | Certificate                              | 
+| Language      | Level  | Observation                              | 
 |:--------------|:-------|:-----------------------------------------|
 | Portuguese 🇧🇷 | Native | -                                        |
-| English 🇺🇸    | C1     | https://cert.efset.org/zaPhYD?cid=em100a |
+| English 🇺🇸    | C1     | [Certificate] (https://cert.efset.org/zaPhYD?cid=em100a) |
 
 ---
 
