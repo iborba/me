@@ -143,6 +143,12 @@ XP Educação - Brazil
 
 Become skilled at developing, implementing and managing Artificial Intelligence solutions, tackling complex challenges and improving decision-making processes. You will develop an in-depth understanding of the principles and techniques of the field, including Machine Learning algorithms and deep networks, as well as skills in automation, natural language processing, computer vision and more. Become an expert in the field and boost your career with the Postgraduate Diploma in Artificial Intelligence with an emphasis on Machine Learning.
 
+### 🎓 M.B.A - Software Architecture
+
+2024 - 2024
+
+XPe - São Paulo/Brazil
+
 ### 🎓 M.B.A - Project Management
 
 2015 - *2016 (unfinished due to Relocation)*
@@ -162,17 +168,3 @@ Unisinos - São Leopoldo/Brazil
 🎓 FreeCodeCamp: [JavaScript Algorithms and Data Structures certification](https://freecodecamp.org/certification/iborba/javascript-algorithms-and-data-structures)
 
 ---
-
-# Contact
-
-[📧 israel.borba@gmail.com](mailto:israel.borba@gmail.com)
-
-[🔗](https://www.linkedin.com/in/israelmborba/) [Linkedin](https://www.linkedin.com/in/israelmborba)
-
-[👾 Githu](https://github.com/iborba)b
-
-[Israel Borba - PT-BR](https://www.notion.so/Israel-Borba-PT-BR-2659d890a9314f4b986a76d424524bfa?pvs=21)
-
-[Cover letter](https://www.notion.so/Cover-letter-3395501dbc454c7baaf4baf661e52451?pvs=21)
-
-[Studies](https://www.notion.so/9b1ba1d09b2a4864b411e9d316e99c79?pvs=21)
