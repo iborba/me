@@ -4,15 +4,13 @@
 👋 I am a software engineer based in Rio Grande do Sul, Brazil, with experience in the software industry since 2007. My focus area for the past few years has been back-end development using **Node.js**, but I am also skilled in front-end development with **Vue**.
 </aside>
 
-### Contacts
-
 [📧](mailto:israel.borba@mail.com) [Email](mailto:israel.borba@gmail.com)
 [🔗](https://www.linkedin.com/in/israelmborba/) [Linkedin](https://www.linkedin.com/in/israelmborba)
 [👾Github](https://github.com/iborba)
 
 # Experience
 
-### Software Engineer - Node
+## Software Engineer - Node
 
 *IMB Consulting (Remote from Brazil) – (May 2022 - Present)*
 
@@ -22,7 +20,7 @@
 - I also coach junior developers joining the team, conducting frequent pair and mob programming sessions. Additionally, I work with senior engineers to define roadmaps and prioritize features.
 - I ensure the quality of the code in more than 10 small apps, always using Jest or Mocha to test them.
 
-### Software Architect - Node
+## Software Architect - Node
 
 GFT*, São Paulo, Brazil (Remote from Brazil) – (2022 - 2023)*
 
@@ -33,7 +31,7 @@ GFT*, São Paulo, Brazil (Remote from Brazil) – (2022 - 2023)*
 - Mentored other back-end developers to achieve company and personal goals.
 - Ensured code quality by specifying test metrics and providing training on how to use Jest.
 
-### Software Engineer - Node, Vue
+## Software Engineer - Node, Vue
 
 Baires Dev*, Buenos Aires, Argentina (Remote from Brazil) – (2021 - 2022)*
 
@@ -42,7 +40,7 @@ Baires Dev*, Buenos Aires, Argentina (Remote from Brazil) – (2021 - 2022)*
 - Additionally, I worked with **GraphQL**to provide a fast experience to mobile devices, and used Postgres as the main database.
 - To improve code quality, I utilized **Typescript**.
 
-### Software Architect - Node, .NET
+## Software Architect - Node, .NET
 
 Stoneridge*, Campinas, Brazil (Remote from Brazil) – (2020 - 2021)*
 
@@ -51,7 +49,7 @@ Stoneridge*, Campinas, Brazil (Remote from Brazil) – (2020 - 2021)*
 - Hired all team members in alignment with the national engineering manager's requirements for skills and needs.
 - Helped to design new app characteristics, such as migrating to **AWS, using Cognito, creating some Python Lambdas, and moving the main code from .NET to .NET Core**.
 
-### Software Enginneer - Node, .NET
+## Software Enginneer - Node, .NET
 
 TOTVS *S/A, Porto Alegre, Brazil – (2017 - 2020)*
 
@@ -61,7 +59,7 @@ TOTVS *S/A, Porto Alegre, Brazil – (2017 - 2020)*
 - Use Azure components to improve scalability and availability.
 - Guide younger developers on how to use the tools we are starting to use, such as **RabbitMQ, GraphQL, Helm, Redis, Node.js, Docker, Kubernetes, and Azure**.
 
-### Software Enginneer - .NET
+## Software Enginneer - .NET
 
 Klassmatt | Integra*, Porto Alegre, Brazil – (2014 - 2017)*
 
@@ -69,7 +67,7 @@ Klassmatt | Integra*, Porto Alegre, Brazil – (2014 - 2017)*
 - I develop **.NET Framework** and **Microsoft SQL Server** tools to meet client requirements, such as fast querying and total safety.
 - I designed a new internal project that uses **Lucene/Elasticsearch** to index words and speed up queries on the system.
 
-### Software Enginneer - .NET
+## Software Enginneer - .NET
 
 Perto *S/A, Gravataí, Brazil – (2007 - 2014)*
 
@@ -135,19 +133,13 @@ Proficient speaker
 
 # Education
 
-### 🎓 Postgraduate - Artificial Intelligence with an emphasis on Machine Learning
+### 🎓 Postgraduate - Software Architecture
 
 2024 - *2024 (ongoing)*
 
-XP Educação - Brazil
+XPe - Brazil
 
-Become skilled at developing, implementing and managing Artificial Intelligence solutions, tackling complex challenges and improving decision-making processes. You will develop an in-depth understanding of the principles and techniques of the field, including Machine Learning algorithms and deep networks, as well as skills in automation, natural language processing, computer vision and more. Become an expert in the field and boost your career with the Postgraduate Diploma in Artificial Intelligence with an emphasis on Machine Learning.
-
-### 🎓 M.B.A - Software Architecture
-
-2024 - 2024
-
-XPe - São Paulo/Brazil
+Learn the best practices to reduce risks associated with software development and contribute to the growth of organizations
 
 ### 🎓 M.B.A - Project Management
 
