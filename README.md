@@ -4,7 +4,7 @@
 
 [📧](mailto:israel.borba@mail.com) [Email](mailto:israel.borba@gmail.com)
 [🔗](https://www.linkedin.com/in/israelmborba/) [Linkedin](https://www.linkedin.com/in/israelmborba)
-[👾Github](https://github.com/iborba)
+[:octocat:](https://github.com/iborba) [Github](https://github.com/iborba)
 
 # Experience Summary
 
