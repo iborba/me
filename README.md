@@ -6,9 +6,17 @@
 [🔗](https://www.linkedin.com/in/israelmborba/) [Linkedin](https://www.linkedin.com/in/israelmborba)
 [👾Github](https://github.com/iborba)
 
-# Experience 
+# Experience Summary
 
-[See here](./experience.md)
+- **Software Engineer - Node (IMB Consulting):** Created scalable integrations and tools to enhance user experience, leveraging **Node.js, Redis, ElasticSearch, Docker**.
+- **Software Architect - Node (GFT):** Designed architecture and mentored developers using **Node.js, Postgres, Docker, GraphQL**.
+- **Software Engineer - Node, Vue (Baires Dev):** Built front-end components and APIs with **Vue.js, GraphQL, Cypress, Postgres**.
+- **Software Architect - Node, .NET (Stoneridge):** Migrated apps to modern stacks using **Node.js, AWS, .NET Core, Docker**.
+- **Software Engineer - Node, .NET (TOTVS):** Shifted from monolith to microservices, adopting **Node.js, TypeScript, Azure, RabbitMQ**.
+- **Software Engineer - .NET (Klassmatt | Integra):** Improved performance and data processing with **.NET Framework, SQL Server, Elasticsearch**.
+- **Software Engineer - .NET (Perto):** Enhanced contract management systems using **.NET Framework, Microsoft SQL, Oracle**.
+
+[See more](./experience.html)
 
 ---
 
@@ -49,7 +57,7 @@ Whether it's T-SQL, PL-SQL, PG-SQL, or any other variation, where there's a data
 | Language      | Level  | Observation                              | 
 |:--------------|:-------|:-----------------------------------------|
 | Portuguese 🇧🇷 | Native | -                                        |
-| English 🇺🇸    | C1     | [Certificate] (https://cert.efset.org/zaPhYD?cid=em100a) |
+| English 🇺🇸    | C1     | [Certificate](https://cert.efset.org/zaPhYD?cid=em100a) |
 
 ---
 
