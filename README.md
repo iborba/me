@@ -4,18 +4,24 @@
 
 [📧](mailto:israel.borba@mail.com) [Email](mailto:israel.borba@gmail.com)
 [🔗](https://www.linkedin.com/in/israelmborba/) [Linkedin](https://www.linkedin.com/in/israelmborba)
-:octocat: (https://github.com/iborba) [Github](https://github.com/iborba)
+[💻](https://github.com/iborba) [Github](https://github.com/iborba)
 
 # Experience Summary
 
-- **Software Engineer - Node (Ernst and Young - Softensity):** Created scalable integrations and tools to enhance user experience.
+- **Software Engineer (Ernst and Young - Softensity):** Created scalable integrations and tools to enhance user experience.
   - **Stack:** Node.js, .NET
-- **Software Architect - Node (BTG - GFT):** Designed architecture and mentored developers using **Node.js, Postgres, Docker, GraphQL**.
-- **Software Engineer - Node, Vue (Baires Dev):** Built front-end components and APIs with **Vue.js, GraphQL, Cypress, Postgres**.
-- **Software Architect - Node, .NET (Stoneridge):** Migrated apps to modern stacks using **Node.js, AWS, .NET Core, Docker**.
-- **Software Engineer - Node, .NET (TOTVS):** Shifted from monolith to microservices, adopting **Node.js, TypeScript, Azure, RabbitMQ**.
-- **Software Engineer - .NET (Klassmatt):** Improved performance and data processing with **.NET Framework, SQL Server, Elasticsearch**.
-- **Software Engineer - .NET (Perto):** Enhanced contract management systems using **.NET Framework, Microsoft SQL, Oracle**.
+- **Software Architect (BTG - GFT):** Designed architecture and mentored developers.
+  - **Stack:** Node.js
+- **Software Engineer (Baires Dev):** Built front-end components and APIs.
+  - **Stack:** Node.js, Vue
+- **Software Architect (Stoneridge):** Migrated apps to modern stacks.
+  - **Stack:** Node.js, .NET
+- **Software Engineer (TOTVS):** Shifted from monolith to microservices.
+  - **Stack:** Node.js, .NET
+- **Software Engineer (Klassmatt):** Improved performance and data processing.
+  - **Stack:** .NET
+- **Software Engineer (Perto):** Enhanced contract management systems.
+  - **Stack:** .NET
 
 [See more](./experience.html)
 
