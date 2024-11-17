@@ -8,12 +8,12 @@
 
 # Experience Summary
 
-- **Software Engineer - Node (IMB Consulting):** Created scalable integrations and tools to enhance user experience, leveraging **Node.js, Redis, ElasticSearch, Docker**.
-- **Software Architect - Node (GFT):** Designed architecture and mentored developers using **Node.js, Postgres, Docker, GraphQL**.
+- **Software Engineer - Node (Ernst and Young - Softensity):** Created scalable integrations and tools to enhance user experience, leveraging **Node.js, .NET, Azure, Redis, ElasticSearch, Docker**.
+- **Software Architect - Node (BTG - GFT):** Designed architecture and mentored developers using **Node.js, Postgres, Docker, GraphQL**.
 - **Software Engineer - Node, Vue (Baires Dev):** Built front-end components and APIs with **Vue.js, GraphQL, Cypress, Postgres**.
 - **Software Architect - Node, .NET (Stoneridge):** Migrated apps to modern stacks using **Node.js, AWS, .NET Core, Docker**.
 - **Software Engineer - Node, .NET (TOTVS):** Shifted from monolith to microservices, adopting **Node.js, TypeScript, Azure, RabbitMQ**.
-- **Software Engineer - .NET (Klassmatt | Integra):** Improved performance and data processing with **.NET Framework, SQL Server, Elasticsearch**.
+- **Software Engineer - .NET (Klassmatt):** Improved performance and data processing with **.NET Framework, SQL Server, Elasticsearch**.
 - **Software Engineer - .NET (Perto):** Enhanced contract management systems using **.NET Framework, Microsoft SQL, Oracle**.
 
 [See more](./experience.html)
