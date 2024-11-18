@@ -1,6 +1,7 @@
 ---
 ---
 
+@import "{{ site.theme }}";
 #banner {
   background-color: #c2c2c2;
   border: 1px solid #ffffff;
@@ -14,5 +15,3 @@
     }
   }
 }
-
-@import "{{ site.theme }}";
