@@ -2,10 +2,6 @@
 
 👋 I am a software engineer based in Rio Grande do Sul, Brazil, with experience in the software industry since 2007. My focus area for the past few years has been back-end development using **Node.js**, but I am also skilled in front-end development with **Vue**.
 
-[📧](mailto:israel.borba@mail.com) [Email](mailto:israel.borba@gmail.com)
-[🔗](https://www.linkedin.com/in/israelmborba) [Linkedin](https://www.linkedin.com/in/israelmborba)
-[💻](https://github.com/iborba) [Github](https://github.com/iborba)
-
 # Experience Summary
 
 - **Software Engineer (Ernst and Young - Softensity):** Created scalable integrations and tools to enhance user experience.
