@@ -1,1 +1,15 @@
 @import "{{ site.theme }}";
+
+#banner {
+  background-color: #c2c2c2;
+  border: 1px solid #ffffff;
+
+  .button {
+    border: 1px solid #535353;
+    background: linear-gradient(#828181, #4e4e4e);
+
+    :hover {
+      background: linear-gradient(#4e4e4e, #828181);
+    }
+  }
+}

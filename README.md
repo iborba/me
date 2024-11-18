@@ -29,34 +29,28 @@
 
 # Skills
 
-### Javascript / Typescript
+### JavaScript / TypeScript
+I began using JavaScript in 2007, initially for front-end development, and later transitioned to Node.js for back-end projects. Over the years, I’ve used JavaScript extensively for microservices, monoliths, APIs, and MVC-based front-ends, working with tools and frameworks like Jest, Express, Axios, GraphQL, Prisma, Redis, MongoDB, ElasticSearch, and AWS Lambda.
 
-I began writing JavaScript in 2007, when it was primarily used for front-end development. Since then, I have continued to use it extensively, and even began developing in Node.js a decade later.
+- TypeScript has been a natural addition to my toolkit, offering strong typing that feels familiar, akin to C#, my second language.
 
-While JavaScript has its flaws, I still believe it to be a solid choice for most business solutions around the world. Over the years, I have utilized **JavaScript** in a variety of contexts, including **microservices, monoliths, APIs, MVC-based front-ends, as well as with Jest, Express, Axios, GraphQL, Prisma, Postgres, MySQL, Redis, MongoDB, ElasticSearch, Vue, and AWS Lambda functions**.
-
-**TypeScript** is a subset of JavaScript that I also appreciate, particularly because it makes JS similar to my second language: C#.
+### Golang
+I’m actively developing a personal project involving Blockchain and Smart Contracts using Solidity. For the back-end, I’ve chosen Golang, which I use to build microservices and Lambdas, appreciating its performance and simplicity.
 
 ### C#
-
-I started working with C# there in 2007, and it has always been reliable for the majority of challenges I have faced. C# helped me integrate with large amounts of data and provided a secure environment for calculating transactions. Additionally, the .NET Framework and its associated tools, such as Analysis Services, SQL Server, and Reporting Services, allowed me to meet companies' requirements and deliver the best possible solutions at the time.
+I’ve worked with C# since 2007, leveraging its robustness for handling large datasets and secure transaction processing. The .NET Framework, alongside tools like SQL Server, Reporting Services, and Analysis Services, enabled me to meet complex business requirements and deliver reliable solutions.
 
 ### Python
-
-I have recently started learning it and find it to be a good challenge! Although I am not yet proficient, I have worked on some features and fixes on my own, and I am trying to incorporate it into some of my personal projects.
+Though I’m new to Python, I’m enjoying the challenge and steadily building proficiency by contributing to personal projects and small fixes. It’s becoming a useful addition to my toolkit.
 
 ### Vue.js
-
-I enjoyed using Vue.js as it provided me with a valuable learning experience. I discovered its potential and learned about the benefits of using good front-end frameworks. During my time using Vue.js, I created some amazing components and gained knowledge on front-end testing. It also helped me to better understand front-end life cycles.
+My experience with Vue.js taught me the power of modern front-end frameworks. I developed reusable components, gained a deep understanding of front-end lifecycles, and utilized Cypress for testing, creating seamless user experiences.
 
 ### React
-
-As Python, I've started learning it recently and found it amazing. I'm not proficient yet, honestly I’m on the way to be better here as it is a must nowadays in the market.
+Recently, I’ve started learning React, finding it exciting and versatile. While I’m not yet proficient, I’m actively improving, as it’s a valuable skill in today’s market.
 
 ### SQL
-
-Whether it's T-SQL, PL-SQL, PG-SQL, or any other variation, where there's a database, there's SQL. I've been using it extensively for years and consider myself proficient. It's probably the area where I use Google search the least.
-
+From T-SQL to PL-SQL and PG-SQL, I’ve been using SQL extensively for years across a variety of databases. It’s one of my strongest skills, requiring minimal external references during problem-solving.
 ---
 
 # Languages
