@@ -95,3 +95,8 @@ Unisinos - São Leopoldo/Brazil
 🎓 FreeCodeCamp: [JavaScript Algorithms and Data Structures certification](https://freecodecamp.org/certification/iborba/javascript-algorithms-and-data-structures)
 
 ---
+# Contacts
+
+* [📧](mailto:israel.borba@mail.com) [Email](mailto:israel.borba@gmail.com)
+* [🔗](https://www.linkedin.com/in/israelmborba) [Linkedin](https://www.linkedin.com/in/israelmborba)
+* [💻](https://github.com/iborba) [Github](https://github.com/iborba)
