@@ -6,6 +6,9 @@
   background-color: #c2c2c2;
   border: 1px solid #ffffff;
 
+  ul li {
+    display: inline-flex;
+  }
   .button {
     border: 1px solid #535353;
     background: linear-gradient(#828181, #4e4e4e);
@@ -21,19 +24,21 @@
     }
 
     .contact {
-      position:absolute;
       height: 36px;
       width: 36px;
       display: block;
     }
     .linkedin {
       background: url(../images/linkedin.svg);
+      background-size: contain;
     }
     .github {
       background: url(../images/github.svg);
+      background-size: contain;
     }
     .email {
       background: url(../images/email.png);
+      background-size: contain;
     }
   }
 }
