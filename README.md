@@ -94,6 +94,8 @@ Unisinos - São Leopoldo/Brazil
 
 🎓 FreeCodeCamp: [JavaScript Algorithms and Data Structures certification](https://freecodecamp.org/certification/iborba/javascript-algorithms-and-data-structures)
 
+🎓 EFSet: [English level](https://cert.efset.org/zaPhYD?cid=em100a)
+
 ---
 # Contacts
 
