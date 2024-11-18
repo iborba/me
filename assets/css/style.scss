@@ -15,3 +15,18 @@
     }
   }
 }
+#contact {
+  position:absolute;
+  height: 36px;
+  width: 36px;
+  display: block;
+  #linkedin {
+    background: url(../images/linkedin.svg);
+  }
+  #github {
+    background: url(../images/github.svg);
+  }
+  #email {
+    background: url(../images/email.png);
+  }
+}

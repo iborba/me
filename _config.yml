@@ -4,3 +4,7 @@ remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 show_downloads: false
+contact:
+  linkedin: https://www.linkedin.com/in/israelmborba
+  github: https://github.com/iborba
+  email: israel.borba@gmail.com
