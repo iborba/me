@@ -5,11 +5,12 @@
 #banner {
   background-color: #c2c2c2;
   border: 1px solid #ffffff;
+  right: 35%;
 
   ul {
     margin: 6px 0 0 10px;
   }
-  
+
   ul li {
     display: inline-flex;
   }
@@ -45,4 +46,20 @@
       background-size: contain;
     }
   }
+}
+
+.wrapper {
+  width: 860px;
+}
+
+section {
+  width: 800px;
+}
+
+nav {
+  margin-left: -680px;
+}
+
+footer {
+  margin-left: -630px;
 }
