@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+header {
+  width: 100%;
+}
+
 #banner {
   background-color: #c2c2c2;
   border: 1px solid #ffffff;
@@ -62,4 +66,8 @@ nav {
 
 footer {
   margin-left: -630px;
+}
+
+@media print, screen and (max-width: 1060px) {
+
 }
