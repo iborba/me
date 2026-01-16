@@ -1,0 +1,206 @@
+---
+title: Portfolio
+description: Projects and system design case studies
+---
+
+<div class="page-header">
+  <h1 class="page-title">Portfolio & <span class="text-accent">Case Studies</span></h1>
+  <p class="page-description">Deep dives into systems I've designed and built throughout my career</p>
+</div>
+
+<section class="section">
+  <div class="section-header">
+    <h2 class="section-title" data-number="01">Featured Project</h2>
+    <p class="section-subtitle">Microservices Migration at TOTVS</p>
+  </div>
+
+  <div class="experience-card">
+    <div class="exp-header">
+      <div>
+        <h3 class="exp-title">Monolith to Microservices Migration</h3>
+        <p class="exp-company">Enterprise SaaS Platform</p>
+      </div>
+      <span class="exp-period">2017 - 2020</span>
+    </div>
+    <div class="exp-description">
+      <h4>The Challenge</h4>
+      <p>The MVP was built on existing databases where direct connections weren't possible—only through SOAP APIs. Average response time was 2-3 seconds per query, involving API authentication, communication latency, and processing large XML data.</p>
+      
+      <h4 class="mt-3">The Solution</h4>
+      <ul>
+        <li>Developed a microservices solution using Node.js with individual databases following DDD model</li>
+        <li>Implemented asynchronous communication between microservices</li>
+        <li>Container orchestration with Kubernetes</li>
+        <li>Ensured easy maintenance and cost-effectiveness</li>
+      </ul>
+      
+      <h4 class="mt-3">The Results</h4>
+      <ul>
+        <li><strong class="text-green">95% reduction</strong> in API response times (from 2-3s to under 200ms)</li>
+        <li>Highly resilient, scalable, and secure architecture</li>
+        <li>Extensively tested codebase</li>
+        <li>Team upskilled in Kubernetes and RabbitMQ</li>
+      </ul>
+      
+      <h4 class="mt-3">Architecture Overview</h4>
+      <p>The previous MVC application with ASP.NET Razor views was transformed into microfrontends in Angular communicating with a gateway, which called microservices to retrieve and return compressed data—all within the same network.</p>
+      
+      <p>This architecture was later replicated across new sectors including healthcare systems and dental clinics.</p>
+    </div>
+    <div class="exp-stack">
+      <span class="stack-tag">Node.js</span>
+      <span class="stack-tag">.NET</span>
+      <span class="stack-tag">Angular</span>
+      <span class="stack-tag">RabbitMQ</span>
+      <span class="stack-tag">Kubernetes</span>
+      <span class="stack-tag">DDD</span>
+      <span class="stack-tag">Microservices</span>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-header">
+    <h2 class="section-title" data-number="02">Current Project</h2>
+    <p class="section-subtitle">AI-Powered Document Processing</p>
+  </div>
+
+  <div class="experience-card">
+    <div class="exp-header">
+      <div>
+        <h3 class="exp-title">Document Metadata Extraction Service</h3>
+        <p class="exp-company">EY (Ernst and Young)</p>
+      </div>
+      <span class="exp-period">2022 - Present</span>
+    </div>
+    <div class="exp-description">
+      <p>A microservice that provides a way to tackle documents and their metadata. It uses AI to extract metadata from PDF documents, comparing datapoint values against rules and recommendations, generating output for clients.</p>
+      
+      <h4 class="mt-3">System Architecture</h4>
+      <ul>
+        <li>Backend: .NET 8 + Node.js services</li>
+        <li>Frontend: Angular + React applications</li>
+        <li>Data: MySQL + PostgreSQL + Redis</li>
+        <li>Messaging: RabbitMQ for async processing</li>
+      </ul>
+    </div>
+    <div class="exp-stack">
+      <span class="stack-tag">.NET 8</span>
+      <span class="stack-tag">Node.js</span>
+      <span class="stack-tag">React</span>
+      <span class="stack-tag">Angular</span>
+      <span class="stack-tag">MySQL</span>
+      <span class="stack-tag">PostgreSQL</span>
+      <span class="stack-tag">Redis</span>
+      <span class="stack-tag">RabbitMQ</span>
+      <span class="stack-tag">AI/ML</span>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-header">
+    <h2 class="section-title" data-number="03">Design Patterns Expertise</h2>
+    <p class="section-subtitle">Patterns I've applied in cloud-native projects</p>
+  </div>
+
+  <div class="skills-grid">
+    <div class="skill-card">
+      <div class="skill-header">
+        <div class="skill-icon">🔲</div>
+        <div>
+          <h3 class="skill-name">Microservices Architecture</h3>
+        </div>
+      </div>
+      <p class="skill-description">Breaking down applications into small, autonomous services responsible for single business capabilities—improving scalability and maintainability.</p>
+    </div>
+    
+    <div class="skill-card">
+      <div class="skill-header">
+        <div class="skill-icon">⚡</div>
+        <div>
+          <h3 class="skill-name">Circuit Breaker</h3>
+        </div>
+      </div>
+      <p class="skill-description">Preventing cascading failures by stopping repeated execution of operations likely to fail.</p>
+    </div>
+    
+    <div class="skill-card">
+      <div class="skill-header">
+        <div class="skill-icon">🚪</div>
+        <div>
+          <h3 class="skill-name">API Gateway</h3>
+        </div>
+      </div>
+      <p class="skill-description">Single entry point handling authentication, caching, rate limiting, and routing requests to appropriate services.</p>
+    </div>
+    
+    <div class="skill-card">
+      <div class="skill-header">
+        <div class="skill-icon">🌿</div>
+        <div>
+          <h3 class="skill-name">Strangler Fig</h3>
+        </div>
+      </div>
+      <p class="skill-description">Gradually replacing monolithic applications with microservices while the old system continues to run.</p>
+    </div>
+    
+    <div class="skill-card">
+      <div class="skill-header">
+        <div class="skill-icon">📊</div>
+        <div>
+          <h3 class="skill-name">Event Sourcing</h3>
+        </div>
+      </div>
+      <p class="skill-description">Storing system state as a sequence of immutable events rather than just current state.</p>
+    </div>
+    
+    <div class="skill-card">
+      <div class="skill-header">
+        <div class="skill-icon">↔️</div>
+        <div>
+          <h3 class="skill-name">CQRS</h3>
+        </div>
+      </div>
+      <p class="skill-description">Segregating operations that modify data (commands) from those that read data (queries).</p>
+    </div>
+    
+    <div class="skill-card">
+      <div class="skill-header">
+        <div class="skill-icon">💾</div>
+        <div>
+          <h3 class="skill-name">Distributed Cache</h3>
+        </div>
+      </div>
+      <p class="skill-description">Storing frequently accessed data in distributed in-memory cache to reduce database load and speed up responses.</p>
+    </div>
+    
+    <div class="skill-card">
+      <div class="skill-header">
+        <div class="skill-icon">🏥</div>
+        <div>
+          <h3 class="skill-name">Health Check</h3>
+        </div>
+      </div>
+      <p class="skill-description">Regular monitoring of service health, providing status updates to ensure traffic only reaches healthy instances.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-header">
+    <h2 class="section-title" data-number="04">Coming Soon</h2>
+  </div>
+  
+  <div class="experience-card">
+    <div class="exp-description">
+      <p>Writing this section takes time, so I'll update it periodically with new experiences. I'll also add projects I've worked on in the past.</p>
+      <p>As an on-company developer, I never had enough time for the open source community—it makes me feel sad. But this section is my alternative, where I'll dig deep into System Design and other aspects of projects I've worked on.</p>
+      <p class="text-accent">Stay tuned for more case studies!</p>
+    </div>
+  </div>
+</section>
+
+<p class="mt-4 text-center">
+  <a href="./" class="btn btn-secondary">← Back to Home</a>
+</p>

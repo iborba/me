@@ -1,0 +1,50 @@
+﻿    1. Describe a complex business problem you solved with software. How did you leverage cloud-native technologies like Azure or AWS, and what was the impact?
+The project aimed to serve small and medium-sized enterprises, but it was being developed by a major Brazilian tech company. The MVP was built on existing databases, where direct connections were not possible, only through SOAP APIs. The average response time was 2-3 seconds per query, as it involved API authentication, communication latency, and processing large XML data before returning the results to the client.
+
+Our mission was to develop a microservices solution using Node.js, individual databases with the DDD model, asynchronous communication between microservices, and container orchestration with Kubernetes. Additionally, we needed to ensure the project was easy to maintain and cost-effective, given that the MVP was already live with some clients, and rewriting the code was not feasible.
+
+As one of the four architects responsible for creating the five microservices, we transitioned from a monolithic, hard-to-maintain solution to a highly resilient, scalable, secure, and modern microservices architecture. We wrote extensively tested code and reduced response times to below 200 ms. The development team gained proficiency in tools like Kubernetes and RabbitMQ.
+
+The previous application used an MVC model with ASP.NET Razor views and controllers that made external API requests. The new application employed microfrontends in Angular communicating with a gateway, which called microservices to retrieve and return compressed data, all within the same network. This drastically reduced operational costs and significantly enhanced the application's perceived value compared to competitors.
+
+A major challenge was implementing these changes quickly and seamlessly. We opted to complete the front end in nine months but delivered the first rewritten APIs within a month. The product gradually became robust while maintaining the same interface to avoid client discomfort.
+
+Throughout the project, I served as the lead architect and became the technical reference for replicating this architecture in new sectors within the company, including healthcare systems and dental clinics.
+
+    2. Why choose a microservices architecture, and when might you avoid it? Share examples of a project where you implemented microservices and any challenges faced.
+One possible reason to choose a microservices is when we need to scale an application. Providing a microservice architecture is not that trivial, although common nowadays, and it envolves handling infrastructure. 
+It’s necessary to provision a server and orchestrate it, it’s also required to take care about security and network in a complete mode.
+It’s also important to notice that microservices are, in a final sense, computational resources that are configured to use 24/7, being or not.
+So, if the application is not predicted to work closest to 24/7, may worth to choose a serverless infrastructure, that would be charged per use.
+    3. What AWS or other IaaS services have you used to architect scalable applications?
+        1. EKS, SQS, Cloudwatch, Redis, RabbitMQ, AKS, Serverless.
+
+    4. In a high-traffic application, how would you troubleshoot a slow web page? What tools and methods would you use for front-end vs. back-end issues?
+       It’s very important to monitor the application with logs and metrics tools. 
+       Use performance monitoring tools to gather insights and identify the main areas of concern, then break down the problem into front-end and back-end components and troubleshoot them separately.
+       It’s important to continuously test using load testing tools to ensure that changes have resolved the issues and the application can handle high traffic efficiently.
+
+    5. What design patterns (excluding MVC) have you applied in cloud-native projects, and why?
+            ▪ Microservices Architecture Pattern
+                • Breaks down an application into a set of small, autonomous services, each responsible for a single business capability, improving scalability, easier deployment, and enhanced maintainability.
+            ▪ Circuit Breaker Pattern
+                • Prevents an application from repeatedly trying to execute an operation that is likely to fail, protecting it from cascading failures.
+            ▪ API Gateway Pattern
+                • An entry point for clients that handles requests by routing them to appropriate services, often handling cross-cutting concerns like authentication, caching, and rate limiting.
+            ▪ Sidecar Pattern
+                • Deploys a helper service (sidecar) alongside a main service to add capabilities, such as logging, monitoring, or service discovery.
+            ▪ Strangler Fig Pattern
+                • Gradually replaces parts of a monolithic application with microservices. New functionality is built as microservices while the old system continues to run, until it is entirely replaced.
+            ▪ Event Sourcing Pattern
+                • Stores the state of a system as a sequence of events. Instead of persisting just the current state, every change is logged as an immutable event.
+            ▪ CQRS (Command Query Responsibility Segregation) Pattern
+                • Segregates the operations that modify data (commands) from those that read data (queries), using separate models for each.
+            ▪ Distributed Cache Pattern
+                • Stores frequently accessed data in a distributed in-memory cache to reduce load on databases and speed up responses.
+            ▪ Health Check Pattern
+                • Regularly monitors the health of services, providing status updates to load balancers or orchestrators to ensure traffic is only directed to healthy instances.
+      
+    6. Share a project where you used TDD. How did it impact your code quality and design, and what challenges did you face?
+       I never used TDD for real, but used BDD in some projects. The goal was to use the user stories in a way that ensures all the use cases were covered by unit tests. The main tradeoff using TDD is that sometimes tests became weak as the time to make tests before implementation may increase the time to deliver the tool.
+       Unit tests are fundamental in a project and the solution must be done based on a minimum code coverage and quality. The usage of TDD or not, in my opinion, depends more on the team capacity than the business requirements.
+

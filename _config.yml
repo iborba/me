@@ -1,10 +1,63 @@
-title: Personal Portfolio
-description: A personal portfolio
-remote_theme: pages-themes/leap-day@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-show_downloads: false
+# Israel Borba - Personal Portfolio
+# https://iborba.github.io/me
+
+title: Israel Borba
+description: Senior Software Engineer & Architect | 17+ years building scalable systems
+
+# Site settings
+url: "https://iborba.github.io"
+baseurl: "/me"
+lang: en-US
+
+# Contact info
 contact:
   linkedin: https://www.linkedin.com/in/israelmborba
   github: https://github.com/iborba
   email: mailto:israel.borba@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Theme - we use our own custom styles
+# The styles.scss will be compiled by GitHub Pages
+plugins:
+  - jekyll-seo-tag
+
+# Exclude from build
+exclude:
+  - scripts/
+  - Jobs/*.pdf
+  - Jobs/*.docx
+  - Jobs/*.doc
+  - Jobs/*.xlsx
+  - Jobs/*.odt
+  - Jobs/*.excalidraw
+  - Jobs/*.webp
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - README-dev.md
+  - Gemfile
+  - Gemfile.lock
+
+# Include in build
+include:
+  - Jobs/foto perfil.jpeg
+
+# SEO
+author: Israel Borba
+twitter:
+  username: israelmborba
+social:
+  name: Israel Borba
+  links:
+    - https://www.linkedin.com/in/israelmborba
+    - https://github.com/iborba
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

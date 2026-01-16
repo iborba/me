@@ -1,0 +1,6 @@
+I've just worked with small and big applications in Node.js, some of them are microservices which had to receive a bunch of offline sells, once a day, and add them sorted in the database, doing validation when needed but without stopping the processing.
+
+Also just worked in some websites where the goal is being always fast letting the write concernment as a second goal prior to read and speed.
+
+
+

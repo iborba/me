@@ -1,0 +1,22 @@
+{
+  "name": "israel-borba-portfolio",
+  "version": "2.0.0",
+  "description": "Personal portfolio and resume site for Israel Borba",
+  "scripts": {
+    "sync": "node scripts/sync-cv.js",
+    "sync:dry": "node scripts/sync-cv.js --dry-run"
+  },
+  "author": "Israel Borba <israel.borba@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iborba/me"
+  },
+  "keywords": [
+    "portfolio",
+    "resume",
+    "software-engineer",
+    "jekyll"
+  ]
+}
+
