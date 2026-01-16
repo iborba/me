@@ -24,7 +24,7 @@ description: Senior Software Engineer & Architect
   </div>
 </section>
 
-<section class="section animate-on-scroll">
+<section class="section">
   <div class="section-header">
     <h2 class="section-title" data-number="01">Experience Highlights</h2>
     <p class="section-subtitle">Recent positions and key achievements</p>
@@ -106,7 +106,7 @@ description: Senior Software Engineer & Architect
   </p>
 </section>
 
-<section class="section animate-on-scroll delay-1">
+<section class="section">
   <div class="section-header">
     <h2 class="section-title" data-number="02">Technical Skills</h2>
     <p class="section-subtitle">Technologies I work with daily</p>
@@ -181,7 +181,7 @@ description: Senior Software Engineer & Architect
   </div>
 </section>
 
-<section class="section animate-on-scroll delay-2">
+<section class="section">
   <div class="section-header">
     <h2 class="section-title" data-number="03">Education</h2>
     <p class="section-subtitle">Academic background and certifications</p>
@@ -224,7 +224,7 @@ description: Senior Software Engineer & Architect
   </div>
 </section>
 
-<section class="section animate-on-scroll delay-3">
+<section class="section">
   <div class="section-header">
     <h2 class="section-title" data-number="04">Languages</h2>
   </div>
@@ -247,7 +247,7 @@ description: Senior Software Engineer & Architect
   </div>
 </section>
 
-<section class="section animate-on-scroll delay-4">
+<section class="section">
   <div class="section-header">
     <h2 class="section-title" data-number="05">Get in Touch</h2>
     <p class="section-subtitle">Let's discuss your next project</p>
