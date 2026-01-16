@@ -1,0 +1,32 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="32" height="32" rx="6" fill="#0a0f1a"/>
+  
+  <!-- Code brackets with terminal aesthetic -->
+  <g stroke="#22d3ee" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Left bracket -->
+    <path d="M 8 10 L 6 16 L 8 22" stroke="#22d3ee"/>
+    <path d="M 6 16 L 10 16" stroke="#22d3ee" opacity="0.6"/>
+    
+    <!-- Right bracket -->
+    <path d="M 24 10 L 26 16 L 24 22" stroke="#22d3ee"/>
+    <path d="M 26 16 L 22 16" stroke="#22d3ee" opacity="0.6"/>
+  </g>
+  
+  <!-- Center dot/period (like in { IB }) -->
+  <circle cx="16" cy="16" r="2" fill="#4ade80"/>
+  
+  <!-- Terminal cursor blink effect -->
+  <rect x="18" y="14" width="2" height="4" fill="#22d3ee" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Subtle grid pattern -->
+  <defs>
+    <pattern id="grid" x="0" y="0" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M 4 0 L 0 0 0 4" fill="none" stroke="#22d3ee" stroke-width="0.3" opacity="0.2"/>
+    </pattern>
+  </defs>
+  <rect width="32" height="32" fill="url(#grid)"/>
+</svg>
+
