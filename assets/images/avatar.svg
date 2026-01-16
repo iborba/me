@@ -1,0 +1,56 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="150" cy="150" r="140" fill="#111827" stroke="#22d3ee" stroke-width="3"/>
+  
+  <!-- Gradient for depth -->
+  <defs>
+    <linearGradient id="headGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a2332;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1424;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#22d3ee;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Head shape -->
+  <ellipse cx="150" cy="120" rx="70" ry="75" fill="url(#headGradient)" stroke="#22d3ee" stroke-width="2"/>
+  
+  <!-- Hair -->
+  <path d="M 90 80 Q 100 50 120 60 Q 140 50 150 55 Q 160 50 180 60 Q 200 50 210 80 L 200 100 Q 180 90 150 95 Q 120 90 100 100 Z" fill="#1a2332" stroke="#22d3ee" stroke-width="1.5"/>
+  
+  <!-- Glasses frame -->
+  <rect x="110" y="110" width="35" height="25" rx="3" fill="none" stroke="#22d3ee" stroke-width="2.5"/>
+  <rect x="155" y="110" width="35" height="25" rx="3" fill="none" stroke="#22d3ee" stroke-width="2.5"/>
+  <line x1="145" y1="122" x2="155" y2="122" stroke="#22d3ee" stroke-width="2.5"/>
+  
+  <!-- Eyes -->
+  <circle cx="127" cy="122" r="4" fill="#4ade80"/>
+  <circle cx="173" cy="122" r="4" fill="#4ade80"/>
+  
+  <!-- Nose -->
+  <ellipse cx="150" cy="140" rx="8" ry="12" fill="none" stroke="#64748b" stroke-width="1.5" opacity="0.6"/>
+  
+  <!-- Beard -->
+  <path d="M 120 150 Q 110 170 115 185 Q 120 195 130 200 Q 140 205 150 205 Q 160 205 170 200 Q 180 195 185 185 Q 190 170 180 150" 
+        fill="#1a2332" stroke="#22d3ee" stroke-width="1.5"/>
+  
+  <!-- Mustache -->
+  <path d="M 130 145 Q 140 150 150 148 Q 160 150 170 145" 
+        stroke="#22d3ee" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Smile -->
+  <path d="M 130 165 Q 140 175 150 175 Q 160 175 170 165" 
+        stroke="#4ade80" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Tech accent - code brackets -->
+  <text x="150" y="250" font-family="JetBrains Mono, monospace" font-size="24" fill="url(#accentGradient)" text-anchor="middle" font-weight="600">{ IB }</text>
+  
+  <!-- Decorative dots -->
+  <circle cx="80" cy="200" r="3" fill="#22d3ee" opacity="0.6"/>
+  <circle cx="220" cy="200" r="3" fill="#22d3ee" opacity="0.6"/>
+  <circle cx="100" cy="230" r="2" fill="#4ade80" opacity="0.5"/>
+  <circle cx="200" cy="230" r="2" fill="#4ade80" opacity="0.5"/>
+</svg>
+
